@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CollectionViewKeepLastItemInView.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

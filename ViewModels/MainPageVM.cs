@@ -1,7 +1,3 @@
-﻿// <copyright file="MainPageVM.cs" company="COMPRION GmbH">
-//   Copyright (c) COMPRION GmbH. All rights reserved.
-// </copyright>
-
 using System.Collections.ObjectModel;
 using System.Linq.Expressions;
 using System.Reflection;
